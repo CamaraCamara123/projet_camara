@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Attributs de style de l'application -->
+    </style>
+
+    <!-- Styles personnalisés -->
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/text_color_normal</item>
+
+        <!-- Couleur du texte lorsque le champ est en état activé (par exemple, lorsqu'il a le focus) -->
+        <item name="android:textColorHighlight">@color/text_color_activated</item>
+
+
+        <!-- Couleur de l'icône de l'erreur -->
+        <item name="colorError">@color/icon_color_error</item>
+
+    </style>
+
+    <color name="text_color_normal">#B9B1B0</color>
+    <color name="text_color_activated">#B2F436</color>
+    <color name="icon_color_error">#F44336</color>
+</resources>

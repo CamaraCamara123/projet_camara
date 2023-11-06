@@ -1,0 +1,14 @@
+ma\projet\inscription\InscriptionApplication.class
+ma\projet\entities\User.class
+ma\projet\repository\StudentRepository.class
+ma\projet\entities\Role.class
+ma\projet\services\StudentService.class
+ma\projet\entities\Filiere.class
+ma\projet\controllers\FiliereController.class
+ma\projet\dao\IDao.class
+ma\projet\controllers\StudentController.class
+ma\projet\entities\Student.class
+ma\projet\repository\RoleRepository.class
+ma\projet\repository\UserRepository.class
+ma\projet\services\FiliereService.class
+ma\projet\repository\FiliereRepository.class
